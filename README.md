@@ -1,0 +1,1 @@
+System for requesting appointments with Doctors, which are approved by Admins of the hospital. Admins can change, add and delete user and doctor records. Doctors can see their appointment. Part of University coursework.
